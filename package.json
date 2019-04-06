@@ -1,0 +1,17 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app_1.js",
+  "scripts": {
+    "start": "node app_1",
+    "dev": "nodemon app_1"
+  },
+  "author": "attachai pusin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10",
+    "uuid": "^3.3.2"
+  }
+}
